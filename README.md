@@ -7,7 +7,7 @@
 </span>
 <br><br><br>
 
-## Projek ini dibuat menggunakan
+## Projek ini dibuat menggunakan :
  * Laravel Framework 8.83.25
  * PHP version 7.4.30
  * Node v16.16.0
@@ -15,9 +15,15 @@
  * Git version 2.34.1
  * XAMPP version 7.4.30-1
  * VSCode version 1.72.2
- * Postman version 10.0.1
-
-<br><br>
+ * Postman version 10.0.1<br><br>
+ 
+### Library / Framework tambahan yang digunakan :
+ * JWT-Auth     : https://github.com/tymondesigns/jwt-auth
+ * React Router : https://reactrouter.com/en/v6.3.0/getting-started/installation
+ * Axios        : https://axios-http.com/docs/intro
+ * Bootstrap    : https://getbootstrap.com/
+ <br><br>
+ 
 ## Cara menjalankan projek ini
 
 ### <i><strong>Configurasi file Laravel untuk Backend</i></strong>
