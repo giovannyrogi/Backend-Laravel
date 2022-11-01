@@ -1,9 +1,9 @@
 # SISTEM LOGIN MENGGUNAKAN LARAVEL DAN REACTJS
 
 <span float="center">
-    <img src="https://github.com/giovannyrogi/Backend-Laravel/blob/master/resources/ui/loginpage.png" width="300"/>
-    <img src="https://github.com/giovannyrogi/Backend-Laravel/blob/master/resources/ui/registerpage.png" width="300"/>
-    <img src="https://github.com/giovannyrogi/Backend-Laravel/blob/master/resources/ui/homepage.png" width="300"/>
+    <img src="https://github.com/giovannyrogi/Backend-Laravel/blob/master/resources/ui/loginpage.png" width="200"/>
+    <img src="https://github.com/giovannyrogi/Backend-Laravel/blob/master/resources/ui/registerpage.png" width="200"/>
+    <img src="https://github.com/giovannyrogi/Backend-Laravel/blob/master/resources/ui/homepage.png" width="200"/>
 </span>
 <br><br><br>
 
