@@ -42,4 +42,5 @@
  <br><code>git clone [https://github.com/giovannyrogi/Backend-Laravel.git](https://github.com/giovannyrogi/Frontend-ReactJS.git)</code><br><br>
  * Buka file <i><strong>Frontend-ReactJS</i></strong> yang telah di <i><strong>Clone</i></strong> dengan menggunakan <i><strong>Text Editor</i></strong>.<br><br>
  * Buka <i><strong>CMD/Terminal</i></strong> di folder <i><strong>Frontend-ReactJS</i></strong> dan jalankan perintah <code>npm install</code>.<br><br>
- * Setelah selesai, mulai server dengan perintah <code>npm start</code> dan <i><strong>Sistem Login</i></strong> akan terbuka pada tab browser yang baru.
+ * Setelah selesai, mulai server dengan perintah <code>npm start</code> dan <i><strong>Sistem Login</i></strong> akan terbuka pada tab browser yang baru.<br><br>
+   <img src="https://i.ibb.co/x1gPtmY/ui-login.png" alt="ui-login" border="0" width="500">
