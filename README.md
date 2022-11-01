@@ -17,7 +17,7 @@
  * VSCode version 1.72.2
  * Postman version 10.0.1<br><br>
  
-### Library / Framework tambahan yang digunakan :
+### Library / Framework yang digunakan :
  * JWT-Auth     : https://github.com/tymondesigns/jwt-auth
  * React Router : https://reactrouter.com/en/v6.3.0/getting-started/installation
  * Axios        : https://axios-http.com/docs/intro
