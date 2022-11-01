@@ -7,6 +7,11 @@
 </span>
 <br><br><br>
 
+## Demo Video :
+https://user-images.githubusercontent.com/52149086/199279667-94cffb07-d9d9-41e3-a42c-fc24e3bbd4f0.mp4
+
+<br><br><br>
+
 ## Projek ini dibuat menggunakan :
  * Laravel Framework 8.83.25
  * PHP version 7.4.30
